@@ -1,0 +1,10 @@
+export const SIGNED = 'signed';
+export const CONNECTED = 'connected';
+export const NOTIFIED = 'notified';
+export const CLEARED = 'cleared';
+export const PURCHASED_DATA = 'purchased_list';
+export const UPLOADED_DATA = 'uploaded_list';
+export const SET_PLAN = 'set-plan';
+export const SET_VIDEO_COUNT = 'set-video-count';
+export const TIMER = 'timer';
+export const SET_RATE = 'set-rate';
